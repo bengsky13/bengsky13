@@ -14,6 +14,7 @@ I am a cybersecurity enthusiast actively participating in Capture The Flag (CTF)
 | 1st | **TryHackMe Industrial Intrusion Student Division!** | [**TryHackMe**](https://tryhackme.com/industrial-intrusion) — PLAY AS SNI | ![][web] |
 | 2nd | **SAS CTF 2025** | [**CTFTIME**](https://ctftime.org/event/2811/) — PLAY AS SKSD | ![][web] |
 | 2nd | **RISE THE RANGER 2025** | [**SATSIBER**](https://satsiber-tni.mil.id/hasil-akhir-final-attack-defence-rise-the-ranger-202509281295) — PLAY AS BENGSKY ACADEMY | ![][web] |
+| Top 6 | **CYBER BREAKER SEASON 2** | [**CYBER BREAKER - Peris.AI**](https://satsiber-tni.mil.id/hasil-akhir-final-attack-defence-rise-the-ranger-202509281295) — PLAY AS Gapapa Kalah Yang Penting Kalah | ![][web]  |
 | Top 10 | **CDDC BRAINHACK 2025** | [**BRAINHACK BY DSTA SINGAPORE GOV**](https://www.dsta.gov.sg/brainhack) — PLAY AS SNI| ![][web] |
 
 ### CTF Writeup
